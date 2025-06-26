@@ -8,7 +8,7 @@
     "watch": "node --env-file=.env --watch index.js "
   },
   "repository": {
-    "type": "git",
+    "type": "module",
     "url": "git+https://github.com/FrancescoSls97/node-hello-world.git"
   },
   "keywords": [],
